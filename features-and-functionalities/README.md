@@ -1,5 +1,10 @@
 
 **Project Requirements for the Airbnb Clone Backend**
+https://drive.google.com/file/d/1R0Ec7gZrtSuZbm8x6fGfg3cT2EY8ZWow/view?usp=sharing
+![AirBnB Feactures and Functionalities drawio](https://github.com/user-attachments/assets/9fe01ac3-43f2-4ce6-ac81-67a74a451d8f)
+
+
+
 ** - 🎯 Objective:**
 - To identify and document the key features and functionalities of the Airbnb Clone backend by understanding the technical and functional requirements necessary for building a scalable, secure, and robust system.
 
